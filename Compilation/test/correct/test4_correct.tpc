@@ -1,0 +1,30 @@
+int a;
+char *test4, test;
+
+
+void fct1(int a){
+	print(a);
+}
+void fct2(char test, int test2 ){
+    print(test);
+    print(test2);
+}
+
+void fct(char test){
+    print(test);
+}
+
+int main(int fort){
+	char *suis;
+    int test2;
+    if(1){
+    	return -1+1;
+    }
+    print(*suis);
+    fct(test);
+    fct2(test, test2);
+    fct1(a);
+
+    return 0;
+    
+}

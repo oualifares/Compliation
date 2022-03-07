@@ -1,0 +1,13 @@
+int a;
+int add(void){
+	int b;
+	if(a < b){
+		return 1;
+	}
+	return a;
+}
+
+int main(void){
+	add();
+	return 0;
+}

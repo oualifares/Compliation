@@ -1,0 +1,25 @@
+char car;
+
+void soustrait( char *a, char b){
+	print(b);
+	print(*a);
+}
+
+
+void decl(int a ,char b){
+	int A, *B;
+	char C, D;
+	while(1 < 2){
+		A = a + *B;	
+    }
+    soustrait((&C), D);
+}
+
+int main(void){
+	int a;
+	char b;
+	a = 5;
+	b = '1';
+	decl(a, b);
+	return 0;
+}

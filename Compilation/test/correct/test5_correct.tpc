@@ -1,0 +1,16 @@
+int a;
+
+
+int main(void){
+	char b;
+	int aaa, aa;	
+	a = 3;
+	b = 'c';
+	print (1); 
+
+	return a;
+	// Ceci est un autre test
+	
+	/*Ceci/Ceci est un commen/*t*a*ire est un commentaire*/
+	
+}

@@ -1,0 +1,22 @@
+int a;
+char *test4, test;
+
+
+
+void fct1(int a, int a){ 
+	char a;
+	print(a);
+
+}
+
+int main(int fort){
+	char fort, *suis;
+    if(1){
+    	return -1+1;
+    }
+    print(suis);
+    fct1(&test, 'a');
+
+    return 0;
+    
+}

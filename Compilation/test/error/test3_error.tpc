@@ -1,0 +1,11 @@
+int a;
+int azer(void){
+	a = 3;
+	b = 'c';
+	print(1);
+ 
+	zeekf(aaa, aa);
+	zeekf(aa);
+	return 1;
+	
+}

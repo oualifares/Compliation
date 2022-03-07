@@ -1,0 +1,27 @@
+/* test1.tpc */
+
+/*des exemples sur l'utilisation des variables sans déclaration */
+
+int s, b,c,*r2 ;
+char letter, digit, punct;
+
+
+void main(char h, int asc, char *c)  {
+  
+  t=15;  /* t n'est pas déclaré */
+  *r1=12; /* r1 n'est pas déclaré */
+  r2=24;
+
+  punct='.';
+}
+
+
+int test(int a, int v){
+	int entier;
+  
+	char character;
+  fct(a , entier, character);
+  *h = K; /* les variables h et k non sont pas déclarés */
+  character = 'c';
+  return entier;
+}
